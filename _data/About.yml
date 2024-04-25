@@ -1,6 +1,6 @@
 subject: Sobre mi
 listing-order: 0
 icon: "/assets/img/about.png"
-contentens:
-  - title: "Soy un estudiante de CFGS Desarrollo de Aplicaciones Multiplataforma, me defino como una persona movida por la curiosidad. Mis inquietudes y ganas de crecimiento, tanto personal como laboral, están ligadas al sentimiento de sentirme útil.\n\n<<El propósito de la vida es encontrar un don, el significado de la vida es darlo.>> Pablo Picasso."
+contents:
+  - descriptions: "Soy un estudiante de CFGS Desarrollo de Aplicaciones Multiplataforma, me defino como una persona movida por la curiosidad. Mis inquietudes y ganas de crecimiento, tanto personal como laboral, están ligadas al sentimiento de sentirme útil.\n\n<<El propósito de la vida es encontrar un don, el significado de la vida es darlo.>> Pablo Picasso."
 
