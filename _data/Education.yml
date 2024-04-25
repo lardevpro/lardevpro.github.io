@@ -1,18 +1,32 @@
-subject: Education
+subject: Educación y Fomación (temas vistos)
 listing-order: 1
-icon: "/assets/img/graduation-cap.svg"
+icon: "/assets/img/educacion.png"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: "EFA Moratalaz (Manzanares)\n\n2º Ciclo Formativo Grado Superior Desarrollo de Aplicaciones Multiplataforma"
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - "Programación de Servicios y Procesos\n\n(procesos, multihilos y servidores en Java)"
+      - "Acceso a Datos\n\n(XML, JSON, DOM, conectores JDBC e Hibernate en Java)"
+      - "Desarrollo de Aplicaciones Móviles\n\n(en Android Estudio con Java maquetación, bases de datos, permisos y multimedia)"
+      - "Desarrollo de Interfaces\n\n(Modelo Vista Controlador java swing)"
+      - "Sistemas de Gestión Empresarial\n\n(CRM, ERP, Odoo creación de módulos, Python nivel básico)"
+      - "Empresa Inciativa Emprendedora\n\n(Creación y viabilidad de una empresa, productos, valor añadido etc)"
+    date: sep. 2023 - mar. 2024
+  - title: "IES Gregorio Prieto (Valdepeñas)\n\n1º Ciclo Formativo Grado Superior Desarrollo de Aplicaciones Multiplataforma"
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - "Programación\n\n(variables, estructuras de control, iteradores, estructuras de almacenamiento estático y dinámico, POO)"
+      - "Bases de Datos\n\n(introducción, diagramas ER, en SQL --> DDL, DML, DCL, DQL, PL/SQL, OObjetos y no relacionales mongoDB)"
+      - "Lenguajes de Marcas y Signos de Gestión de Información\n\n(HTML, XML, JSON, YAML, hojas de estilo CSS, BootStrap, Flex)"
+      - "Sistemas Informáticos\n\n(Software, Hardware, codificaicón, ofimática, comandos Ubuntu, Shell Script con Bash, redes)"
+      - "Entornos de Desarrollo\n\n(intellIj, Eclipse, VSC, Xcode, Viusual Studio, pruebas unitarias jUnit, diagramas de flujo, UML...)"
+      - "Inglés técnico"
+      - "Formación y Orientación Laboral\n\n(nóminas, contratos, derechos y debers del trabajados etc)"
+#    grade: "**GPA**: `4.1/4.3`"
+    date: sep. 2022 - jun. 2023
+  - title: "UNED\n\nAcceso a la universidad para mayores de 25 años"
+    description:
+      - Matemáticas Aplicadas a las Ciencias Solciales
+      - Lengua Castellana y Literatura
+      - Historia de España
+      - "Lengua extranjera\n\n(inglés)"
+#    grade: "**GPA**: `3.9/4.3`"
+    date: Mar. 2020 - Feb. 2021

@@ -33,12 +33,14 @@
           <div><span>{{ site.phone_number }}</span></div>
         </a></li>
         {% endif %}
+        <!--
         {% if site.address %}
         <li><a aria-label="My Address" href="https://www.google.com/maps/search/{{ site.address }}">
           <img src="{{ '/assets/img/location-dot.svg' | prepend: site.baseurl }}" alt="My Address">
           <div><span>{{ site.address }}</span></div>
         </a></li>
         {% endif %}
+        -->
         {% if site.email %}
           <li><a aria-label="My Email" href="mailto:{{ site.email }}">
             <img src="{{ '/assets/img/envelope.svg' | prepend: site.baseurl }}" alt="My Email">
@@ -57,6 +59,7 @@
             <div><span>@{{ site.github_username }}</span></div>
           </a></li>
         {% endif %}
+        <!--
         {% if site.twitter_username %}
           <li><a aria-label="My Twitter" href="https://twitter.com/{{ site.twitter_username }}">
             <img src="{{ '/assets/img/twitter.svg' | prepend: site.baseurl }}" alt="My Twitter">
@@ -87,8 +90,10 @@
             <div><span>{{ site.blog_url }}</span></div>
           </a></li>
         {% endif %}
+        -->
       </ul>
     </div>
+    
     <div class="name-zone">
       <h1>{{ site.name }}</h1>
       <h2>{{ site.job }}</h2>
@@ -133,14 +138,14 @@
                   {% endfor %}
               </li>
               {% endfor %}
-          </ul>
-        </li>
-      {% endfor %}
+            </ul>
+          </li>
+          {% endfor %}
       </ul>
   </div>
   <div id="footer">
     <span>
-      Copyright © 2024 | <a href="https://github.com/byanko55">Yankos</a>
+      Copyright © 2024 | <a href="https://github.com/lardevpro">LardevPro</a>
     </span>
   </div>
 </body>

@@ -1,22 +1,10 @@
-subject: Experiences
+subject: Experiencia laboral
 listing-order: 2
-icon: "/assets/img/briefcase.svg"
+icon: "/assets/img/expe_labo.png"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Experiencia labora no relacionada con el sector del desarrollo
+    role: Conductor profesional, expendedor de gasolinera, responsable de tienda entre otras.
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - "Si es cierto que no hay relación con el desarrollo de Software y mi bagaje laboral, también es cierto que\n\n que se adquieren valores que comparten la mayoría de empleos como el trabajo en equipo,\n\nresponsabilidad, coordinación, comunicación efectiva, escucha activa, resolución de problemas entre otras.\n\nTambién se pueden contar aptitudes como gestión de documentos, revisión de herramientas, limpieza y orden entre otras."
+      - En el curriculum detallos los últimos 7 años de mi trayectoria laboral.
+#    date: Jan. 2024 - Ongoing
