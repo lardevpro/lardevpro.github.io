@@ -14,7 +14,7 @@ contents:
   - title: "IES Gregorio Prieto (Valdepeñas)\n\n1º Ciclo Formativo Grado Superior Desarrollo de Aplicaciones Multiplataforma"
     description:
       - "Programación\n\n(variables, estructuras de control, iteradores, estructuras de almacenamiento estático y dinámico, POO)"
-      - "Bases de Datos\n\n(introducción, diagramas ER, en SQL --> DDL, DML, DCL, DQL, PL/SQL, OObjetos y no relacionales mongoDB)"
+      - "Bases de Datos\n\n(diagramas ER - SQL --> DDL, DML, DCL, DQL, PL/SQL en MySQL y ORACLE, OObjetos y no relacionales mongoDB)"
       - "Lenguajes de Marcas y Signos de Gestión de Información\n\n(HTML, XML, JSON, YAML, hojas de estilo CSS, BootStrap, Flex)"
       - "Sistemas Informáticos\n\n(Software, Hardware, codificaicón, ofimática, comandos Ubuntu, Shell Script con Bash, redes)"
       - "Entornos de Desarrollo\n\n(intellIj, Eclipse, VSC, Xcode, Viusual Studio, pruebas unitarias jUnit, diagramas de flujo, UML...)"

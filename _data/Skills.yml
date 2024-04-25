@@ -2,14 +2,15 @@ subject: Skills
 listing-order: 5
 icon: "/assets/img/skills.png"
 contents:
-  - title: Programming Languages
+  - title: Lenguajes de programación
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+      ![devicon](https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg)
     "
-  - title: Bases de Datos
+  - title: Lenguajes de Bases de Datos
     description: "
       ![devicon](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
