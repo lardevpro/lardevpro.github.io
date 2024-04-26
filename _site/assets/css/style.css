@@ -162,7 +162,8 @@ a {
     margin-left: -16px;
     margin-bottom: 0;
     padding-bottom: 12px;
-    border-bottom: 1px solid; }
+    border-bottom: 1px solid;
+    text-decoration: underline; }
     #contents .subject-name div {
       width: 32px;
       aspect-ratio: 1.0;
@@ -246,6 +247,11 @@ a {
   #contents img[alt="devicon"] {
     height: 60px;
     width: 60px; }
+  #contents img[alt="trabajos"] {
+    opacity: 65%;
+    height: 100px;
+    width: 100px;
+    border-radius: 10%; }
   #contents ul + p {
     margin-top: -2rem; }
   #contents .content-header + .item {

@@ -1,13 +1,13 @@
-subject: Projects
+subject: Trabajos
 listing-order: 3
 icon: "/assets/img/proyectos.png"
 contents:
   - title: "Juego Street Figther con java swing"
     description: 
-      - Uno de los trabajos mandados en el ciclo formativo 2º curso de Desarrollo de Aplicaciones Multiplataforma
-      - Está en versión Alpha, necesita ser correjido y optimizado
-      - "Tecnología usada: Java Swing"
-    image: "![](https://media.vandal.net/i/1280x720/10-2023/18/2023101822291723_4.jpg.webp)"
+      "![trabajos](https://i.blogs.es/f476ec/streetfighter/1366_2000.jpg)
+        \n\nUno de los trabajos mandados en el ciclo formativo 2º curso de Desarrollo de Aplicaciones Multiplataforma
+        Tecnología usada: Java Swing\n\nPuedes encontrarlo en mi repositorio GitHub [aquí](https://github.com/lardevpro/Street-Figther/tree/master/StreetFighter/src)."
+        
 #  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
 #    description: 
 #      - Universal Command Line Interface for Amazone Web Services
