@@ -2,9 +2,9 @@ subject: Experiencia laboral
 listing-order: 2
 icon: "/assets/img/expe_labo.png"
 contents:
-  - title: "Experiencia labora no relacionada con el sector del desarrollo\n\n(Actualmente trabajando en la logística)"
-    role: Conductor profesional, expendedor de gasolinera, responsable de tienda entre otras.
+  - title: "Contrato en prácticas en la empresa Accuro Technology SL"
+    role: Formación en ABP (Angular y C#)
     description:
-      - "Si es cierto que no hay relación con el desarrollo de Software y mi bagaje laboral, también es cierto que se adquieren valores los cuales son compartidos por la mayoría de empleos como el trabajo en equipo, responsabilidad, coordinación, comunicación efectiva, escucha activa, resolución de problemas entre otras.\n\nTambién se pueden contar aptitudes como gestión de documentos, mantenimientos, limpieza y orden entre otras."
+      - "Actualmente me encuentro en la empresa Accuro Technology con un contrato en prácticas para terminar el ciclo formativo.\n\nCon la ayuda de los profesionales de esta empresa estoy fomrmándome tanto en frontend (framework Angular) como en backend (C# .NET) con el framework ABP."
       - En el curriculum detallos los últimos 7 años de mi trayectoria laboral.
 #    date: Jan. 2024 - Ongoing
