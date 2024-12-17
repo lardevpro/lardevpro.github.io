@@ -4,27 +4,27 @@ icon: "/assets/img/skills.png"
 contents:
   - title: Lenguajes de programación
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg)
+      ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
+      ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+      ![bash](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg)
+      ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+      ![Android Studio](https://upload.wikimedia.org/wikipedia/commons/e/e0/Android_robot_%282014-2019%29.svg)
     "
   - title: Lenguajes de Bases de Datos
     description: "
-      ![devicon](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
+      ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+      ![mongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
     "
   - title: Lenguajes de Marcas y Signos de Gestión de Informaión
     description: "
-    ![devicon](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png)
-    ![devicon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png)
-    ![devicon](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Text-xml.svg/981px-Text-xml.svg.png)
+    ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png)
+    ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png)
+    ![XML](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Text-xml.svg/981px-Text-xml.svg.png)
     "
   - title: Frameworks utilizados
     description: "
-    ![devicon](https://upload.wikimedia.org/wikipedia/commons/c/cf/LogoIonic.png?uselang=fr)
-    ![devicon](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/800px-Spring_Boot.svg.png)
-    ![devicon](https://es.wikipedia.org/wiki/Angular_%28framework%29#/media/Archivo:Angular_full_color_logo.svg)
+    ![Ionic](https://upload.wikimedia.org/wikipedia/commons/c/cf/LogoIonic.png?uselang=fr)
+    ![Spring Boot](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/800px-Spring_Boot.svg.png)
+    ![Angular](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png)
     "
     
