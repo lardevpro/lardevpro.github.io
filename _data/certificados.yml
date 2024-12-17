@@ -3,32 +3,32 @@ listing-order: 6
 icon: "/assets/img/certificados.png"
 contents:
   - title: Certificado Scrum técnico  (OpenWebinars)
-    description: Curso de metodologías ágiles 2 horas
+    description:  2 horas
     date: mar. 2024
   - title: Certificado Unity  (OpenWebinars)
-    description: Curso de intoducción a Unity 6 horas
+    description:  6 horas
     date: mar. 2024
   - title: Certificado HTML y CSS3 (OpenWebinars) 
-    description: Curso de HTML y CSS3 de 10 horas 
+    description:  10 horas 
     date: abr. 2024
   - title: Certificado Java desde 0 (OpenWebinars) 
-    description: Curso de java de 10 horas 
+    description:  10 horas 
     date: abr. 2024
   - title: Certificado Java XML (OpenWebinars) 
-    description: Curso de manipulación de archivos XML con DOM en Java de 10 horas 
+    description:  10 horas 
     date: abr. 2024
   - title: Certificado C++ (OpenWebinars) 
-    description: Curso de introducción a C++ de 1 hora 
+    description:  1 hora 
     date: abr. 2024
   - title: Certificado C++ orientado a objetos o funcional (OpenWebinars) 
-    description: Curso de C++ orientado a objetos o funcional de 1 hora 
+    description:  1 hora 
     date: abr. 2024
   - title: Certificado jUnit5 (OpenWebinars) 
-    description: Curso de pruebas automáticas con jUnit5 de 2 horas 
+    description:  2 horas 
     date: abr. 2024
   - title: Certificado Introducción a Spring Framework (OpenWebinars) 
-    description: Curso intrdocción a Spring Framework de 1 hora 
+    description:  1 hora 
     date: may. 2024
   - title: Certificado Mi primera aplicación web con Spring Boot (OpenWebinars) 
-    description: Curso de creacción de una app web con Spring Boot de 2 horas 
+    description:  2 horas 
     date: may. 2024
